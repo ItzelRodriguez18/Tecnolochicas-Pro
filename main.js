@@ -8,7 +8,7 @@ let typewriter = new Typewriter(app, {
  
 typewriter
   .pauseFor(2500)
-  .typeString('Desarrollo sitios web y escribo artículos sobre programación.')
+  .typeString('Es una banda colombiana de pop latino y Rock latino')
   .pauseFor(200)
   .deleteChars(10)
   .start();
